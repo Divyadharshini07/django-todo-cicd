@@ -14,8 +14,9 @@ Before you begin, ensure you have the following prerequisites installed:
 5. Access to AWS EC2 instance
 6. Local Setup (VS Code)
 
-`
+```
 git clone https://github.com/Akashdhengale/django-todo-cicd.git
+```
 
 
 ## Setup Python Virtual Environment:
@@ -25,37 +26,45 @@ git clone https://github.com/Akashdhengale/django-todo-cicd.git
 pip install virtualenv
 ```
 
+```
 python -m venv env
 ```
 
+
 ### TO Activate Vitual Environment:
 
-
+```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\env\Scripts\activate
 ```
+
 ```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Default
 ```
+
 ```
 pip install django
 ```
 
-Then Run below commands to run the code:
+### Then Run below commands to run the code:
 
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
-Create Requirement.txt:
 
 
+### Create Requirement.txt:
+
+```
 pip freeze > requirements.txt
-AWS EC2 Setup
+```
+
+
+# AWS EC2 Setup:
+
 SSH into Server:
 
-
-ssh into server
 mkdir project
 cd project
 git clone https://github.com/LondheShubham153/django-todo-cicd.git
