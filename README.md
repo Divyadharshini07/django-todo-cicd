@@ -1,10 +1,10 @@
-#TODO-Django-CICD
+# TODO-Django-CICD
 
-##Introduction:
+## Introduction:
 
-This README provides a comprehensive guide to set up and run the "TODO-Django-CICD" project locally, on AWS EC2, and using Docker containers. The project is a Django-based TODO application integrated with Continuous Integration and Continuous Deployment (CI/CD) pipelines for streamlined development workflows.
+```This README provides a comprehensive guide to set up and run the "TODO-Django-CICD" project locally, on AWS EC2, and using Docker containers. The project is a Django-based TODO application integrated with Continuous Integration and Continuous Deployment (CI/CD) pipelines for streamlined development workflows.
 
-##Pre-requisites:
+## Pre-requisites:
 Before you begin, ensure you have the following prerequisites installed:
 
 1. Git
