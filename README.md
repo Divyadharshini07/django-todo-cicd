@@ -47,7 +47,16 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Default
 ```
 
 
+
+
+
+
+
+
 ![Activate virtual env](./snapshot/Akash-TODO-Snap/Activate%20virtual%20env.png)
+
+
+
 
 
 
@@ -64,7 +73,17 @@ pip install django
 ```
 
 
+
+
+
+
+
 ![install django.png](./snapshot/Akash-TODO-Snap/install django.png)
+
+
+
+
+
 
 
 
@@ -90,7 +109,20 @@ python manage.py createsuperuser
 
 
 
+
+
+
+
+
 ![Superuser Snap](./snapshot/Akash-TODO-Snap/Superuser_Snap.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -106,7 +138,23 @@ This command runs the development server locally, and you can access the applica
 
 
 
+
+
+
+
+
+
 ![Code Running in Local](./snapshot/Akash-TODO-Snap/code_running_in_local.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -118,7 +166,22 @@ This command runs the development server locally, and you can access the applica
 pip freeze > requirements.txt
 ```
 
+
+
+
+
+
+
+
 ![Requirement.txt](./snapshot/Akash-TODO-Snap/Requirement.txt.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -128,7 +191,16 @@ This command generates a file named "requirements.txt" containing a list of all 
 
 1. SSH into Server:
 
+
+
+
+
+
 ![SSH to AWS Account](./snapshot/Akash-TODO-Snap/ssh_to_aws_account.png)
+
+
+
+
 
  
 ```
@@ -142,6 +214,14 @@ cd project
 ```
 git clone https://github.com/LondheShubham153/django-todo-cicd.git
 ```
+
+
+
+
+
+
+
+
 ![AWS Git Clone Snap](./snapshot/Akash-TODO-Snap/AWS%20git%20clone%20snap.png)
 
 
@@ -160,7 +240,18 @@ a. Install Python and pip:
 ```
 sudo apt install python3-pip
 ```
+
+
+
+
+
+
+
 ![PIP3 Django](./snapshot/Akash-TODO-Snap/PIP3%20django.png)
+
+
+
+
 
 
 
@@ -171,6 +262,12 @@ b. Install Django:
 ```
 pip3 install django
 ```
+
+
+
+
+
+
 
 ![Install Django on AWS](./snapshot/Akash-TODO-Snap/Install%20django%20on%20AWS.png)
 
@@ -201,7 +298,22 @@ This command applies database migrations to set up the database for the project.
 Congratuations our todo list is working on aws 
 
 
+
+
+
+
+
+
 ![edit inbound rule.png](./snapshot/Akash-TODO-Snap/edit inbound rule.png)
+
+
+
+
+
+
+
+
+
 
 
 ![Runserver on AWS](./snapshot/Akash-TODO-Snap/runserver_on_aws.png)
@@ -209,7 +321,22 @@ Congratuations our todo list is working on aws
 
 
 
+
+
+
+
+
+
 ![Application Running on AWS](./snapshot/Akash-TODO-Snap/application_running_on_aws.png)
+
+
+
+
+
+
+
+
+
 
 
 ### Docker Container Setup
@@ -222,7 +349,22 @@ a. Find the process using port 8000:
 lsof -i:8000
 ```
 
+
+
+
+
+
+
+
 ![List of Services on Port 8000](./snapshot/Akash-TODO-Snap/list_the_services_which_run_on_8000.png)
+
+
+
+
+
+
+
+
 
 
 This command lists the process using port 8000.
@@ -267,7 +409,21 @@ These commands add the Docker repository, update package lists, and install Dock
 ### 3. Build and Run Docker Container:
 
 
+
+
+
+
+
 ![Activate virtual env](./snapshot/Akash-TODO-Snap/Activate%20virtual%20env.png)
+
+
+
+
+
+
+
+
+
 
 
 a. Build Docker image:
@@ -287,10 +443,35 @@ b. Run Docker container:
 sudo docker run -d -p 8000:8000 todo-app
 ```
 
+
+
+
+
+
+
+
 ![docker container.png](./snapshot/Akash-TODO-Snap/docker container.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![Webserver is Running on Docker](./snapshot/Akash-TODO-Snap/webserver_is_running_on_docker.png)
+
+
+
+
+
+
+
 
 
 This command runs the Docker container in detached mode, mapping port 8000.
@@ -335,20 +516,62 @@ Open Jenkins on http://0.0.0.0:8080
 ![Create the First Jenkins Admin User](./snapshot/Akash-TODO-Snap/create_the_first_jenkins_admin_user.png)
 
 
+
+
+
+
+
+
+
+
 ![getting started with jenkins.png](./snapshot/Akash-TODO-Snap/getting started with jenkins.png)
+
+
+
+
+
+
+
 
 
 ![Jenkins Is Ready](./snapshot/Akash-TODO-Snap/jenkins_is_ready.png)
 
 
+
+
+
+
+
+
+
 ![Jenkins Setup](./snapshot/Akash-TODO-Snap/jenkins_setup.png)
+
+
+
+
+
+
+
 
 
 Create a Jenkins agent.
 Integrate GitHub with Jenkins under system < configure < find GitHub.
 
 
+
+
+
+
+
+
+
 ![Node Setup](./snapshot/Akash-TODO-Snap/node_setup.png)
+
+
+
+
+
+
 
 
 5. Create Jenkins Job:
@@ -358,17 +581,65 @@ GitHub Repo: [https://github.com/Akashdhengale/django-todo-cicd]
 Branch: develop
 
 
+
+
+
+
+
+
+
+
 ![github and jenkins now integrate.png](./snapshot/Akash-TODO-Snap/github and jenkins now integrate.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![give github token as secret text in jenkins.png](./snapshot/Akash-TODO-Snap/give github token as secret text in jenkins.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![Create a Jenkins Job](./snapshot/Akash-TODO-Snap/create_a_jenkins_job.png)
 
 
 
+
+
+
+
+
+
+
+
 ![todo-app.png](./snapshot/Akash-TODO-Snap/todo-app.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -382,14 +653,46 @@ sudo docker run -d -p 8000:8000 todo-app
 7. Run Jenkins Job:
 Click on "Build Now" in Jenkins. After a successful build
 
+
+
+
+
+
+
 ![Jenkins Todo-App Build](./snapshot/Akash-TODO-Snap/jenkins_todo_app_build.png)
+
+
+
+
+
+
+
+
+
+
 
 
 ![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins_todo_app_job_success.png)
 
 
 
+
+
+
+
+
+
+
+
+
 ![Before Changes in Code Using Jenkins](./snapshot/Akash-TODO-Snap/before_changes_in_code_using_jenkins.png)
+
+
+
+
+
+
+
 
 
 
