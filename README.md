@@ -302,31 +302,13 @@ These commands add the Docker repository, update package lists, and install Dock
 
 ### 3. Build and Run Docker Container:
 
-
-
-
-
-
-
-![Activate virtual env](./snapshot/Akash-TODO-Snap/Activate%20virtual%20env.png)
-
-
-
-
-
-
-
-
-
-
-
 a. Build Docker image:
 
 ```
 sudo docker build . -t todo-app
 ```
 
-![docker build.png](./snapshot/Akash-TODO-Snap/docker build.png)
+![docker build.png](./snapshot/Akash-TODO-Snap/docker%20build.png)
 
 
 This command builds a Docker image named "todo-app" from the current directory.
@@ -344,7 +326,7 @@ sudo docker run -d -p 8000:8000 todo-app
 
 
 
-![docker container.png](./snapshot/Akash-TODO-Snap/docker container.png)
+![docker container.png](./snapshot/Akash-TODO-Snap/docker%20container.png)
 
 
 
@@ -418,7 +400,7 @@ Open Jenkins on http://0.0.0.0:8080
 
 
 
-![getting started with jenkins.png](./snapshot/Akash-TODO-Snap/getting started with jenkins.png)
+![getting started with jenkins.png](./snapshot/Akash-TODO-Snap/getting%20started%20with%20jenkins.png)
 
 
 
@@ -553,7 +535,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Jenkins Todo-App Build](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20build.png)
+![Jenkins Todo-App Build](./snapshot/Akash-TODO-Snap/jenkins%20todo-app%20build.png)
 
 
 
@@ -566,7 +548,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20job%20success.png)
+![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo-app%20job%20success.png)
 
 
 
