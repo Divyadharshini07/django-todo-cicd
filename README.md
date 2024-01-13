@@ -548,7 +548,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo-app%20job%20success.png)
+![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20job%20success.png)
 
 
 
