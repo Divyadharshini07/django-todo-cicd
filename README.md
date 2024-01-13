@@ -20,8 +20,6 @@ Access to an AWS EC2 instance
 ```
 git clone https://github.com/Akashdhengale/django-todo-cicd.git
 ```
-![AWS Git Clone Snap](./snapshot/Akash-TODO-Snap/AWS%20git%20clone%20snap.png)
-
 
 
 
@@ -105,18 +103,23 @@ This command generates a file named "requirements.txt" containing a list of all 
 ```
 mkdir project
 ```
-![AWS Git Clone Snap](C:/Akash-TODO-Snap/AWS git clone snap.png)
-
-
-
-
 
 ```
 cd project
 ```
+
 ```
 git clone https://github.com/LondheShubham153/django-todo-cicd.git
 ```
+![AWS Git Clone Snap](./snapshot/Akash-TODO-Snap/AWS%20git%20clone%20snap.png)
+
+
+
+
+
+
+
+
 
 These commands connect to the AWS EC2 instance, create a project directory, and clone the project repository.
 
