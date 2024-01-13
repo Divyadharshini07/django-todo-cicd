@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-```This README provides a comprehensive guide to set up and run the "TODO-Django-CICD" project locally, on AWS EC2, and using Docker containers. The project is a Django-based TODO application integrated with Continuous Integration and Continuous Deployment (CI/CD) pipelines for streamlined development workflows.
+This README provides a comprehensive guide to set up and run the "TODO-Django-CICD" project locally, on AWS EC2, and using Docker containers. The project is a Django-based TODO application integrated with Continuous Integration and Continuous Deployment (CI/CD) pipelines for streamlined development workflows.
 
 ## Pre-requisites:
 Before you begin, ensure you have the following prerequisites installed:
@@ -14,20 +14,21 @@ Before you begin, ensure you have the following prerequisites installed:
 5. Access to AWS EC2 instance
 6. Local Setup (VS Code)
 
-```
+
 git clone https://github.com/Akashdhengale/django-todo-cicd.git
 ```
 
 ###Setup Python Virtual Environment:
-```
+
 pip install virtualenv
 ```
-```
+
 python -m venv env
 ```
+
 ### TO Activate Vitual Environment:
 
-```
+
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\env\Scripts\activate
 ```
