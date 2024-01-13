@@ -71,23 +71,6 @@ These commands create a virtual environment named "env" and activate it.
 ```
 pip install django
 ```
-
-
-
-
-
-
-
-![install django.png](./snapshot/Akash-TODO-Snap/install django.png)
-
-
-
-
-
-
-
-
-
 This command installs the Django framework within the virtual environment.
 
 ### 4. Run Django Commands:
@@ -126,20 +109,7 @@ This command generates a file named "requirements.txt" containing a list of all 
 
 ## AWS EC2 Setup
 
-1. SSH into Server:
-
-
-
-
-
-
-![SSH to AWS Account](./snapshot/Akash-TODO-Snap/ssh_to_aws_account.png)
-
-
-
-
-
- 
+1. SSH into Server: 
 ```
 mkdir project
 ```
