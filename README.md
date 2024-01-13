@@ -202,19 +202,6 @@ python manage.py migrate
 This command applies database migrations to set up the database for the project.
 
 
-Congratuations our todo list is working on aws 
-
-
-
-
-
-
-
-
-![edit inbound rule.png](./snapshot/Akash-TODO-Snap/edit%20inbound%20rule.png)
-
-
-
 
 
 
@@ -243,7 +230,7 @@ Congratuations our todo list is working on aws
 
 
 
-
+Congratuations our todo list is working on aws 
 
 
 ### Docker Container Setup
