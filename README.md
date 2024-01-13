@@ -465,20 +465,6 @@ Branch: develop
 
 
 
-![github and jenkins now integrate.png](./snapshot/Akash-TODO-Snap/github%20and%20jenkins%20now%20integrate.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![give github token as secret text in jenkins.png](./snapshot/Akash-TODO-Snap/give%20github%20token%20as%20secret%20text%20in%20jenkins.png)
 
 
@@ -498,15 +484,6 @@ Branch: develop
 
 
 
-
-
-
-
-
-
-
-
-![todo-app.png](./snapshot/Akash-TODO-Snap/todo-app.png)
 
 
 
@@ -541,14 +518,6 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-
-
-
-
-
-
-
-![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20job%20success.png)
 
 
 
