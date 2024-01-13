@@ -389,11 +389,6 @@ These commands enable Jenkins to start on boot, start the Jenkins service, and c
 Open Jenkins on http://0.0.0.0:8080
 
 
-![Create the First Jenkins Admin User](./snapshot/Akash-TODO-Snap/create%20the%20first%20jenkins%20admin%20user.png)
-
-
-
-
 
 
 
