@@ -106,26 +106,6 @@ b. Create a superuser for admin access:
 ```
 python manage.py createsuperuser
 ```
-
-
-
-
-
-
-
-
-![Superuser Snap](./snapshot/Akash-TODO-Snap/Superuser_Snap.png)
-
-
-
-
-
-
-
-
-
-
-
 This command prompts you to enter a username, email, and password for the superuser account.
 
 c. Start the development server:
@@ -136,54 +116,11 @@ python manage.py runserver
 
 This command runs the development server locally, and you can access the application at http://127.0.0.1:8000.
 
-
-
-
-
-
-
-
-
-![Code Running in Local](./snapshot/Akash-TODO-Snap/code_running_in_local.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 5. Create Requirement.txt:
 
 ```
 pip freeze > requirements.txt
 ```
-
-
-
-
-
-
-
-
-![Requirement.txt](./snapshot/Akash-TODO-Snap/Requirement.txt.png)
-
-
-
-
-
-
-
-
-
-
 
 This command generates a file named "requirements.txt" containing a list of all installed Python packages and their versions.
 
