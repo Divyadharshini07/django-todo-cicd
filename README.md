@@ -20,8 +20,10 @@ git clone https://github.com/Akashdhengale/django-todo-cicd.git
 
 ## Setup Python Virtual Environment:
 
-```pip install virtualenv```
 
+```
+pip install virtualenv
+```
 
 python -m venv env
 ```
