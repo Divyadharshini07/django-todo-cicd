@@ -94,6 +94,11 @@ This command generates a file named "requirements.txt" containing a list of all 
 ```
 mkdir project
 ```
+![AWS Git Clone Snap](C:/Akash-TODO-Snap/AWS git clone snap.png)
+
+
+
+
 
 ```
 cd project
