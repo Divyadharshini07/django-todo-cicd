@@ -211,7 +211,7 @@ Congratuations our todo list is working on aws
 
 
 
-![edit inbound rule.png](./snapshot/Akash-TODO-Snap/edit inbound rule.png)
+![edit inbound rule.png](./snapshot/Akash-TODO-Snap/edit%20inbound%20rule.png)
 
 
 
@@ -223,7 +223,7 @@ Congratuations our todo list is working on aws
 
 
 
-![Runserver on AWS](./snapshot/Akash-TODO-Snap/runserver_on_aws.png)
+![Runserver on AWS](./snapshot/Akash-TODO-Snap/runserver%20on%20aws.png)
 
 
 
@@ -234,7 +234,7 @@ Congratuations our todo list is working on aws
 
 
 
-![Application Running on AWS](./snapshot/Akash-TODO-Snap/application_running_on_aws.png)
+![Application Running on AWS](./snapshot/Akash-TODO-Snap/application%20running%20on%20aws.png)
 
 
 
@@ -263,7 +263,7 @@ lsof -i:8000
 
 
 
-![List of Services on Port 8000](./snapshot/Akash-TODO-Snap/list_the_services_which_run_on_8000.png)
+![List of Services on Port 8000](./snapshot/Akash-TODO-Snap/list%20the%20services%20which%20run%20on%208000.png)
 
 
 
@@ -371,7 +371,7 @@ sudo docker run -d -p 8000:8000 todo-app
 
 
 
-![Webserver is Running on Docker](./snapshot/Akash-TODO-Snap/webserver_is_running_on_docker.png)
+![Webserver is Running on Docker](./snapshot/Akash-TODO-Snap/webserver%20is%20running%20on%20docker.png)
 
 
 
@@ -420,7 +420,7 @@ These commands enable Jenkins to start on boot, start the Jenkins service, and c
 Open Jenkins on http://0.0.0.0:8080
 
 
-![Create the First Jenkins Admin User](./snapshot/Akash-TODO-Snap/create_the_first_jenkins_admin_user.png)
+![Create the First Jenkins Admin User](./snapshot/Akash-TODO-Snap/create%20the%20first%20jenkins%20admin%20user.png)
 
 
 
@@ -441,7 +441,7 @@ Open Jenkins on http://0.0.0.0:8080
 
 
 
-![Jenkins Is Ready](./snapshot/Akash-TODO-Snap/jenkins_is_ready.png)
+![Jenkins Is Ready](./snapshot/Akash-TODO-Snap/jenkins%20is%20ready.png)
 
 
 
@@ -451,7 +451,7 @@ Open Jenkins on http://0.0.0.0:8080
 
 
 
-![Jenkins Setup](./snapshot/Akash-TODO-Snap/jenkins_setup.png)
+![Jenkins Setup](./snapshot/Akash-TODO-Snap/jenkins%20setup.png)
 
 
 
@@ -472,7 +472,7 @@ Integrate GitHub with Jenkins under system < configure < find GitHub.
 
 
 
-![Node Setup](./snapshot/Akash-TODO-Snap/node_setup.png)
+![Node Setup](./snapshot/Akash-TODO-Snap/node%20setup.png)
 
 
 
@@ -496,7 +496,7 @@ Branch: develop
 
 
 
-![github and jenkins now integrate.png](./snapshot/Akash-TODO-Snap/github and jenkins now integrate.png)
+![github and jenkins now integrate.png](./snapshot/Akash-TODO-Snap/github%20and%20jenkins%20now%20integrate.png)
 
 
 
@@ -510,7 +510,7 @@ Branch: develop
 
 
 
-![give github token as secret text in jenkins.png](./snapshot/Akash-TODO-Snap/give github token as secret text in jenkins.png)
+![give github token as secret text in jenkins.png](./snapshot/Akash-TODO-Snap/give%20github%20token%20as%20secret%20text%20in%20jenkins.png)
 
 
 
@@ -525,7 +525,7 @@ Branch: develop
 
 
 
-![Create a Jenkins Job](./snapshot/Akash-TODO-Snap/create_a_jenkins_job.png)
+![Create a Jenkins Job](./snapshot/Akash-TODO-Snap/create%20a%20jenkins%20job.png)
 
 
 
@@ -566,7 +566,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Jenkins Todo-App Build](./snapshot/Akash-TODO-Snap/jenkins_todo_app_build.png)
+![Jenkins Todo-App Build](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20build.png)
 
 
 
@@ -579,7 +579,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins_todo_app_job_success.png)
+![Jenkins Todo-App Job Success](./snapshot/Akash-TODO-Snap/jenkins%20todo%20app%20job%20success.png)
 
 
 
@@ -592,7 +592,7 @@ Click on "Build Now" in Jenkins. After a successful build
 
 
 
-![Before Changes in Code Using Jenkins](./snapshot/Akash-TODO-Snap/before_changes_in_code_using_jenkins.png)
+![Before Changes in Code Using Jenkins](./snapshot/Akash-TODO-Snap/before%20changes%20in%20code%20using%20jenkins.png)
 
 
 
