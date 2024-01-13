@@ -16,8 +16,19 @@ Access to an AWS EC2 instance
 
 ### Local Setup (VS Code)
 1. Clone the Repository:
-
+   
+```
 git clone https://github.com/Akashdhengale/django-todo-cicd.git
+```
+![AWS Git Clone Snap](./snapshot/Akash-TODO-Snap/AWS%20git%20clone%20snap.png)
+
+
+
+
+
+
+
+
 This command clones the project repository from the specified URL.
 
 2. Setup Python Virtual Environment:
