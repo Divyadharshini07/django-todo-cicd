@@ -45,6 +45,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\env\Scripts\activate
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Default
 ```
+
+
 ![Activate virtual env](./snapshot/Akash-TODO-Snap/Activate%20virtual%20env.png)
 
 
@@ -61,7 +63,10 @@ These commands create a virtual environment named "env" and activate it.
 pip install django
 ```
 
+
 ![install django.png](./snapshot/Akash-TODO-Snap/install django.png)
+
+
 
 
 This command installs the Django framework within the virtual environment.
@@ -83,7 +88,9 @@ b. Create a superuser for admin access:
 python manage.py createsuperuser
 ```
 
-![Superuser Snap](./snapshot/Akash-TODO-Snap/superuser_snap.png)
+
+
+![Superuser Snap](./snapshot/Akash-TODO-Snap/Superuser_Snap.png)
 
 
 
