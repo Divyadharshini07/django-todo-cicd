@@ -1,8 +1,8 @@
-# TODO-Django-CICD
+# Django-TODO-CICD
 
 ## Introduction
 
-Welcome to the "TODO-Django-CICD" project! This comprehensive guide will walk you through the step-by-step process of setting up and running a Django-based TODO application locally, on AWS EC2, and within Docker containers. In addition, we'll explore the integration of Continuous Integration and Continuous Deployment (CI/CD) pipelines using Jenkins to enhance your development workflow.
+Welcome to the "Django-TODO-CICD" project! This comprehensive guide will walk you through the step-by-step process of setting up and running a Django-based TODO application locally, on AWS EC2, and within Docker containers. In addition, we'll explore the integration of Continuous Integration and Continuous Deployment (CI/CD) pipelines using Jenkins to enhance your development workflow.
 
 ## Pre-requisites:
 
