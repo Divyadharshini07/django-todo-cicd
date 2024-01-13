@@ -14,9 +14,9 @@ Before you begin, ensure you have the following prerequisites installed:
 5. Access to AWS EC2 instance
 6. Local Setup (VS Code)
 
-
+`
 git clone https://github.com/Akashdhengale/django-todo-cicd.git
-```
+
 
 ## Setup Python Virtual Environment:
 
