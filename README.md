@@ -119,7 +119,7 @@ cd project
 ```
 
 ```
-git clone https://github.com/LondheShubham153/django-todo-cicd.git
+git clone https://github.com/Akashdhengale/django-todo-cicd.git
 ```
 
 
