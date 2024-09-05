@@ -19,7 +19,7 @@ Access to an AWS EC2 instance
 ### 1. Clone the Repository:
    
 ```
-git clone https://github.com/Akashdhengale/django-todo-cicd.git
+git clone https://github.com/Divyadharshini07/django-todo-cicd
 ```
 
 This command clones the project repository from the specified URL.
